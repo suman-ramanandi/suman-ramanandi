@@ -48,27 +48,13 @@
 - In-app Purchase
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suman-ramanandi&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suman-ramanandi&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman-ramanandi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🤝 Connect with Me
 
 - 💼 LinkedIn: https://in.linkedin.com/in/suman-ramanandi-4a4b71b7
 - 💻 GitHub: https://github.com/suman-ramanandi
-
+- Mail: dev.suman.ramanandi@gmail.com
 ---
 
 ⭐ *Always learning. Always building.*
