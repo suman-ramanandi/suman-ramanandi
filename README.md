@@ -51,15 +51,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suman-ramanandi&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suman-ramanandi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suman-ramanandi&theme=github-dark-blue" />
+  <img src="https://streak-stats.demolab.com?user=suman-ramanandi&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman-ramanandi&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman-ramanandi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
