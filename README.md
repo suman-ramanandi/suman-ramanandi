@@ -54,7 +54,7 @@
 
 - 💼 LinkedIn: https://in.linkedin.com/in/suman-ramanandi-4a4b71b7
 - 💻 GitHub: https://github.com/suman-ramanandi
-- Mail: dev.suman.ramanandi@gmail.com
+- 📧 Mail: dev.suman.ramanandi@gmail.com
 ---
 
 ⭐ *Always learning. Always building.*
