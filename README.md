@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Suman Ramanandi</h1>
+<h3 align="center">Full Stack Developer | Laravel • Node.js • Angular</h3>
 
-<!--
-**suman-ramanandi/suman-ramanandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/suman-ramanandi">
+    <img src="https://komarev.com/ghpvc/?username=suman-ramanandi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Full Stack Developer with **8+ years** of experience
+- 🚀 Building scalable web applications, REST APIs, and payment systems
+- 💳 Experienced with **Stripe**, subscriptions, and payment integrations
+- ☁️ Interested in Cloud, DevOps, and scalable backend architecture
+- 🌱 Currently learning **Advanced Node.js**, **System Design**, and **iOS Development**
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- PHP
+- Laravel
+- Node.js
+- Express.js
+
+### Frontend
+- Angular
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Bootstrap
+
+### Database
+- MySQL
+
+### Tools & DevOps
+- Git
+- Linux
+- AWS
+- DigitalOcean
+- Postman
+
+### Payments
+- Stripe
+- In-app Purchase
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suman-ramanandi&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suman-ramanandi&theme=github-dark-blue" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman-ramanandi&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+- 💼 LinkedIn: https://in.linkedin.com/in/suman-ramanandi-4a4b71b7
+- 💻 GitHub: https://github.com/suman-ramanandi
+
+---
+
+⭐ *Always learning. Always building.*
